@@ -1,0 +1,20 @@
+!DOCTYPE HTML>
+<meta charset="UTF-8">
+<html>
+    <head>
+        <title>Rjomba.com</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div class="name">
+            <h1>Welcome to Rjomba!</h1>
+        </div>
+        <div class="search-line">
+            <input type="search" maxlength="270px">
+        </div>
+        <button type="submit">
+        <img src="https://i.pinimg.com/originals/1a/c3/50/1ac350a811949040661b23ce854979bc.gif">
+        
+         
+    </body>
+</html>
